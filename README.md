@@ -2,8 +2,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoxDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoxDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoxDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -28,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://media.discordapp.net/attachments/1460772902650777845/1462998957298028565/go-programming-language-icon.png?ex=69703b74&is=696ee9f4&hm=8bb0b3dcd498948a6b333d6f332ab5f143346afea4c4734c056e74db8652c812&=&format=webp&quality=lossless" height="30" alt="Go"  />
 </div>
 
@@ -43,6 +47,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
