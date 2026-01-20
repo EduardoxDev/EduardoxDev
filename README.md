@@ -43,6 +43,10 @@ Em paralelo, desenvolvi o OmniCost, uma plataforma voltada para a observabilidad
   <img src="https://media.discordapp.net/attachments/1460772902650777845/1462998957298028565/go-programming-language-icon.png?ex=69703b74&is=696ee9f4&hm=8bb0b3dcd498948a6b333d6f332ab5f143346afea4c4734c056e74db8652c812&=&format=webp&quality=lossless" height="30" alt="Go"  />
 </div>
 
-![Packman Animation](https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
