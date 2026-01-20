@@ -45,20 +45,16 @@ Em paralelo, desenvolvi o OmniCost, uma plataforma voltada para a observabilidad
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"(https://www.youtube.com/@EduadoMacielWanka) />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"(https://www.instagram.com/eduardoo.dev/)  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"(https://discord.gg/n953AzMg) />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"(eduardomacielwanka78@gmail.com)  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"(https://www.linkedin.com/in/eduardo-maciel-wanka-6194a1396/)  />
-</div>
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+
 
 ###
