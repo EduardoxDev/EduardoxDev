@@ -45,12 +45,8 @@ Em paralelo, desenvolvi o OmniCost, uma plataforma voltada para a observabilidad
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+<picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoxDev/EduardoxDev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
