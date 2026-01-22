@@ -2,11 +2,7 @@
 
 ###
 
-Atualmente, dedico meus estudos à construção de sistemas de alta disponibilidade e arquiteturas de software escaláveis. Aos 16 anos, meu foco não está apenas em aprender linguagens de programação, mas em dominar os fundamentos que sustentam grandes infraestruturas. Acredito que a engenharia de software atinge seu ápice quando conseguimos equilibrar performance técnica com eficiência operacional, e é por isso que meus projetos recentes exploram o ecossistema de Sistemas Distribuídos e a cultura de FinOps (Cloud Financial Management).
-
-Com o desenvolvimento do LogStream, mergulhei na complexidade da indexação de dados em larga escala. O projeto foi desenhado para atuar como uma engine distribuída, onde o maior desafio foi garantir a consistência e a baixa latência na busca de logs entre múltiplos nós. Essa experiência me permitiu entender na prática como estruturar pipelines de dados resilientes, lidar com concorrência e otimizar a recuperação de informação em ambientes onde a falha de um nó não pode comprometer a integridade do sistema como um todo.
-
-Em paralelo, desenvolvi o OmniCost, uma plataforma voltada para a observabilidade de custos em nuvem e detecção de anomalias. Este projeto reflete minha preocupação com o lado pragmático da tecnologia: a viabilidade financeira. Utilizando algoritmos para identificar desvios em séries temporais de faturamento, o OmniCost busca transformar dados brutos de infraestrutura em insights acionáveis para redução de desperdício. Meu objetivo principal com essas contribuições é demonstrar que, independente da idade, é possível construir soluções que resolvam problemas reais de engenharia de nível empresarial através de código limpo e arquitetura bem pensada.
+I am a Software Engineer and a student at @Rockeseat. My work is driven by building high-availability systems and scalable architectures, balancing technical performance with operational efficiency.
 
 ###
 
