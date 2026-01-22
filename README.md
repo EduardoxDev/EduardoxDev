@@ -2,7 +2,7 @@
 
 ###
 
-I am a Software Engineer and a student at @Rockeseat. My work is driven by building high-availability systems and scalable architectures, balancing technical performance with operational efficiency.
+Hello, my name is Eduardo Maciel. I am a Software Engineer, a student at Rocketseat, and a content creator driven by a deep passion for developing high-impact software. Currently, my work and studies are focused on building high-availability systems and scalable architectures, balancing technical performance with operational efficiency. I specialize in the ecosystem of Distributed Systems, focusing on the fundamentals that sustain large-scale enterprise infrastructures.
 
 ###
 
