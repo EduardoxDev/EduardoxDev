@@ -1,4 +1,4 @@
-<h2 align="left">OI👋! Meu Nome é Eduardo Maciel</h2>
+<h2 align="left">Eduardo Maciel</h2>
 
 ###
 
