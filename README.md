@@ -2,16 +2,11 @@
 
 ###
 
-Hello, my name is Eduardo Maciel. I am a Software Engineer, a CEO at Eduardo, and a content creator driven by a deep passion for developing high-impact software. Currently, my work and studies are focused on building high-availability systems and scalable architectures, balancing technical performance with operational efficiency. I specialize in the ecosystem of Distributed Systems, focusing on the fundamentals that sustain large-scale enterprise infrastructures.
+Hello, my name is Eduardo Maciel. I am a Software Engineer, and a content creator driven by a deep passion for developing high-impact software. Currently, my work and studies are focused on building high-availability systems and scalable architectures, balancing technical performance with operational efficiency. I specialize in the ecosystem of Distributed Systems, focusing on the fundamentals that sustain large-scale enterprise infrastructures.
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoxDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoxDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
