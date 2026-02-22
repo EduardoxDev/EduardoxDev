@@ -31,7 +31,7 @@ Hello, my name is Eduardo Maciel. I am a Software Engineer, and a content creato
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1460772902650777845/1462998957298028565/go-programming-language-icon.png?ex=69703b74&is=696ee9f4&hm=8bb0b3dcd498948a6b333d6f332ab5f143346afea4c4734c056e74db8652c812&=&format=webp&quality=lossless" height="30" alt="Go"  />
+  <img src="https://media.discordapp.net/attachments/1474790947509370992/1475105381578440766/go-decal-dark-blue_b3a37d84-702e-4d48-8a1d-90fb520daf09_1445x-removebg-preview.png?ex=699c4671&is=699af4f1&hm=04c06caecfa9a9606d94d1eee8864de23a7bcb63dc69d092bcb277666458eba8&=&format=webp&quality=lossless" height="30" alt="Go"  />
 </div>
 
 ###
