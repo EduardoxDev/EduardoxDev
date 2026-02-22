@@ -2,7 +2,7 @@
 
 ###
 
-Hello, my name is Eduardo Maciel. I am a Software Engineer, and a content creator driven by a deep passion for developing high-impact software. Currently, my work and studies are focused on building high-availability systems and scalable architectures, balancing technical performance with operational efficiency. I specialize in the ecosystem of Distributed Systems, focusing on the fundamentals that sustain large-scale enterprise infrastructures.
+Hello, my name is Eduardo Maciel. I'm a software engineer and CTO at Stackr Hosting driven by a deep passion for high-impact software development. Currently my work is responsible for leading Stackr's technological strategy. My studies are focused on building high availability systems and scalable architectures, balancing technical performance with operational efficiency. I am a specialist in the Distributed Systems ecosystem, focusing on the fundamentals that support large-scale business infrastructures.
 
 ###
 
