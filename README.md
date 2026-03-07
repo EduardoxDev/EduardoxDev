@@ -14,7 +14,7 @@ Hello, my name is Eduardo Maciel. I'm a software engineer and CTO at Stackr Host
 
 [![My Skills](https://skillicons.dev/icons?i=java,docker,cpp,golang,spring,idea,typescript,postgres,redis)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,kubernetes,mongo,mysql,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,mongo,mysql,git,figma)](https://skillicons.dev)
 
 ##
 
