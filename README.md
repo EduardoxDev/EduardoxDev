@@ -12,7 +12,7 @@ Hello, my name is Eduardo Maciel. I am a software engineer and my dream is to be
 
 ## Habilidades Tecnológicas
 
- Aqui estão algumas das tecnologias que eu domino:
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,docker,cpp,golang,spring,idea,typescript,postgres,redis)](https://skillicons.dev)
 
