@@ -7,20 +7,14 @@
 
 ### About
 
-Hello, I'm **Eduardo Maciel**, a software engineer driven by curiosity and a passion for building impactful technology.
-
-Currently leading technology strategy at **Auren Tech**, with a strong focus on distributed systems, scalable architectures, and cloud infrastructure.
-
-I enjoy exploring the engineering principles behind reliable, high-performance systems — from low-level fundamentals to large-scale infrastructure.
-
-My long-term ambition is to study at **MIT**, continuously pushing my understanding of computer science and software engineering.
+Hello, I'm **Eduardo Maciel**, a software engineer driven by curiosity and a passion for building impactful technology. Currently leading technology strategy at **Auren Tech**, with a strong focus on distributed systems, scalable architectures, and cloud infrastructure. I enjoy exploring the engineering principles behind reliable, high-performance systems — from low-level fundamentals to large-scale infrastructure. My long-term ambition is to study at **MIT**, continuously pushing my understanding of computer science and software engineering.
 
 ### Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
